@@ -20,6 +20,17 @@ A Python calculator based on a CLI (Command Line Interface) used to perform basi
 
 ● To package the project into an .exe file, install "pyinstaller" through commands in the Python command line or follow the tutorial <a href="https://www.geeksforgeeks.org/convert-python-script-to-exe-file/">here.</a>
 
+## Credits
+● <a href="https://www.python.org/">The Python Foundation</a> for the whole project and packaging SDK.
+
+● <a href="https://www.geeksforgeeks.org/">Geeksforgeeks</a> for the packaging tutorial.
+
+● <a href="https://www.google.com/">Google</a> for icon and other information.
+
+● The LibTools project for encryption and platform integration.
+
+
+
 
 ### NOTE: This project is deprecated and hence no longer would be updated. There would be only one and final release available here.
 
